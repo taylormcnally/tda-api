@@ -1,4 +1,4 @@
-``tda-api``: A TD Ameritrade API Wrapper
+``tda-api-t5``: A TD Ameritrade API Wrapper using a T5 backend
 ========================================
 
 .. image:: https://img.shields.io/discord/720378361880248621.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2
